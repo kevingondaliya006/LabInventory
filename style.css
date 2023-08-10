@@ -65,8 +65,13 @@
     margin: 10px 10px;
     padding: 10px 10px;
 }
-
+#grad1 {
+    background-image: radial-gradient(black 5%, grey 15%, white 60%);
+  }
 
 form {
     text-align: center;
 }
+div {
+    box-shadow: 10px 10px;
+  }
